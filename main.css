@@ -1,0 +1,11 @@
+.container {
+    flex: display;
+    flex-wrap: wrap;
+}
+
+.canvas {
+    width: 10px;
+    height: 10px;
+    border: 5px solid black;
+}
+
